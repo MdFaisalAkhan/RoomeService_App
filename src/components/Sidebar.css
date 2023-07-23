@@ -1,0 +1,26 @@
+.margin{
+    display: flex;
+    margin-top: 70px;
+}
+.sidebar__last{
+    position: fixed;
+    width: 70px;
+    height:100%;
+    background:white;
+    align-items: center;
+    box-shadow: 0 0 5px rgba(13, 14, 15, 0.493);
+    
+}
+.sidebar__last-section{
+    color: darkgray;
+    display: flex;
+    flex-direction: row;
+    width: 70px;
+    height: 70px;
+    align-items: center;
+    padding:0 20px;   
+}
+.sidebar__last-section:hover{
+background-color: lightgray;
+    
+}

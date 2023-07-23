@@ -1,0 +1,6 @@
+.stars{
+    
+    flex-direction: column;
+    align-items: center;
+    color: rgb(223, 209, 11);
+}
